@@ -2,7 +2,7 @@
 #### Link to Original Nocturne Code
 https://github.com/facebookresearch/nocturne
 
-All code in the nocturne directory of this repo is sourced from the original code and modified to be operational on the cluster at WWU.
+All code in the nocturne directory of this repo is sourced from the original code and modified to be operational on the cluster at WWU. This does not contain all code needed to run nocturne.
 
 ## Setup
 ```
